@@ -1,1 +1,1 @@
-Getting started
+0x02-shell_redirections
